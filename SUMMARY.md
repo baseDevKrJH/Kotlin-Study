@@ -7,5 +7,6 @@
 * [6. null 안전과 예외](chapter6.md)
 * [7. 문자열](chapter7.md)
 * [9. 표준 함수](chapter9.md)
+* [12. 클래스 정의하기](chapter12.md)
 * [14. 상속](chapter14.md)
 
